@@ -3,7 +3,7 @@
   "password": "你的中南大学信息门户密码",
   "schedule": {
     "hour": "7",
-    "minute": "5"
+    "minute": "10"
   },
   "cookie": {
     "eai_sess": "你的eai-sess cookie",
